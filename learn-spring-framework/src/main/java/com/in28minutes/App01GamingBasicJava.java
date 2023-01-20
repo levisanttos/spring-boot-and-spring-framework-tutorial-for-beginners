@@ -11,7 +11,7 @@ import com.in28minutes.game.SuperContraGame;
  * @author santt
  *
  */
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
 
 	/**
 	 * @param args
